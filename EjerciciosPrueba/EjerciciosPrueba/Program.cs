@@ -1,7 +1,9 @@
 ﻿using EjerciciosPrueba;
 
 int opcion = 0;
+
 TableroDamas tablero = new TableroDamas();
+SumaDeDosElementos sumaDeDos = new SumaDeDosElementos();
 
 do
 {
@@ -24,7 +26,7 @@ do
             break;
         case 2:
             // Ejercicio 2: Elementos de un arreglo que sumados dan 10
-            Console.WriteLine("");
+            sumaDeDos.BuscarDosElementosQueSumen10();
             break;
         case 3:
             // Ejercicio 3: Movimientos en una matriz de 4x4
