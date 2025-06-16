@@ -1,0 +1,15 @@
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\bin\Debug\net8.0\EjerciciosPrueba.exe
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\bin\Debug\net8.0\EjerciciosPrueba.deps.json
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\bin\Debug\net8.0\EjerciciosPrueba.runtimeconfig.json
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\bin\Debug\net8.0\EjerciciosPrueba.dll
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\bin\Debug\net8.0\EjerciciosPrueba.pdb
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\obj\Debug\net8.0\EjerciciosPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\obj\Debug\net8.0\EjerciciosPrueba.AssemblyInfoInputs.cache
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\obj\Debug\net8.0\EjerciciosPrueba.AssemblyInfo.cs
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\obj\Debug\net8.0\EjerciciosPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\obj\Debug\net8.0\EjerciciosPrueba.sourcelink.json
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\obj\Debug\net8.0\EjerciciosPrueba.dll
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\obj\Debug\net8.0\refint\EjerciciosPrueba.dll
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\obj\Debug\net8.0\EjerciciosPrueba.pdb
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\obj\Debug\net8.0\EjerciciosPrueba.genruntimeconfig.cache
+C:\Users\Santiago\Documents\github-proyectos\proyectos\github\prueba-tecnica-c-sharp\EjerciciosPrueba\EjerciciosPrueba\obj\Debug\net8.0\ref\EjerciciosPrueba.dll
