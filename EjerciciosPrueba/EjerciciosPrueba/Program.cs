@@ -4,6 +4,7 @@ int opcion = 0;
 
 TableroDamas tablero = new TableroDamas();
 SumaDeDosElementos sumaDeDos = new SumaDeDosElementos();
+MovimientoDeUnElemento movimiento = new MovimientoDeUnElemento();
 
 do
 {
@@ -30,7 +31,7 @@ do
             break;
         case 3:
             // Ejercicio 3: Movimientos en una matriz de 4x4
-            Console.WriteLine("");
+            movimiento.ImprimirMatriz();
             break;
         case 4:
             Console.WriteLine("Saliendo del programa...");
